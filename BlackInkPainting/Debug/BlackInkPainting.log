@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cxl\documents\visual studio 2015\projects\blackinkpainting\blackinkpainting\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+  BlackInkPainting.vcxproj -> C:\Users\cxl\Documents\Visual Studio 2015\Projects\BlackInkPainting\Debug\BlackInkPainting.exe
+  BlackInkPainting.vcxproj -> C:\Users\cxl\Documents\Visual Studio 2015\Projects\BlackInkPainting\Debug\BlackInkPainting.pdb (Full PDB)
